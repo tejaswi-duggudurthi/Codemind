@@ -1,0 +1,42 @@
+.first{
+   height:700px;
+   width:700px;
+   
+   }
+   body{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+   }
+    .h{
+    padding: 25px;
+  
+  }
+  img{
+    height:50px;
+  }
+  td{
+    width: 50px;
+    align-items: center;
+    background-color: white;
+  }
+  .table{
+    background-color:gainsboro;
+  }
+  .s{
+    font-size: 10px;
+    color: gray;
+  }
+  .n{
+    margin-left:50px;
+    margin-top: -40px;
+  }
+  .x{
+    background-color: gainsboro;
+  }
+  .icon:after {
+  content: '\2807';
+  font-size: 23px;
+  margin-left: 15px;
+  }
+  
